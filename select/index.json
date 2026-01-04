@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "正夢",
+  "base_artist": "スピッツ",
+  "createdAt": "2026-01-04T12:57:21.964003Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "正夢",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/01_正夢_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "正夢",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/02_正夢_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "正夢",
+      "artist": "SEKAI NO OWARI",
+      "has_synced": true,
+      "path": "select/03_正夢_SEKAI_NO_OWARI.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "正夢",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/04_正夢_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "正夢",
+      "artist": "SPITZ",
+      "has_synced": false,
+      "path": "select/05_正夢_SPITZ.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "正夢",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/06_正夢_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "正夢",
+      "artist": "スピッツ SPITZ",
+      "has_synced": true,
+      "path": "select/07_正夢_スピッツ_SPITZ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "正夢",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/pl_01_正夢_スピッツ.txt"
+    }
+  ]
+}
